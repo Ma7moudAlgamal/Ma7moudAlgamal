@@ -12,7 +12,7 @@ I work across web, mobile, and game dev depending on what the project calls for.
 
 **[Portfolio](https://mahmoudtarek.netlify.app)** — My personal site with case studies for everything I've shipped.
 
-**[Maze Runner]([https://ma7moud-algamal.itch.io](https://ma7moud-algamal.itch.io/maze-runner))** — A Unity/C# game published on itch.io.
+**[Maze Runner](https://ma7moud-algamal.itch.io/maze-runner)** — A Unity/C# game published on itch.io.
 
 ---
 
