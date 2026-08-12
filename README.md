@@ -31,6 +31,6 @@ I work across web, mobile, and game dev depending on what the project calls for.
 
 ### Links
 
-🌐 [mahmoudtarek.netlify.app](https://mahmoudtarek.netlify.app)  
+🌐 [Portfolio](https://mahmoudtarek.netlify.app)  
 🎮 [itch.io](https://ma7moud-algamal.itch.io/)  
 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-elgamal-a75054237/)
