@@ -8,11 +8,11 @@ I work across web, mobile, and game dev depending on what the project calls for.
 
 ### What I've built
 
-**[Inspire League](https://github.com/Ma7moudAlgamal/inspireleague)** — Football league management platform with 300+ daily users. Handles standings, fixtures, and results. Built with HTML/CSS/JS.
+**[Inspire League](https://inspireleague.netlify.app)** — Football league management platform with 300+ daily users. Handles standings, fixtures, and results. Built with HTML/CSS/JS.
 
 **[Portfolio](https://mahmoudtarek.netlify.app)** — My personal site with case studies for everything I've shipped.
 
-**[Maze Runner](https://ma7moud-algamal.itch.io)** — A Unity/C# game published on itch.io.
+**[Maze Runner]([https://ma7moud-algamal.itch.io](https://ma7moud-algamal.itch.io/maze-runner))** — A Unity/C# game published on itch.io.
 
 ---
 
@@ -32,5 +32,5 @@ I work across web, mobile, and game dev depending on what the project calls for.
 ### Links
 
 🌐 [mahmoudtarek.netlify.app](https://mahmoudtarek.netlify.app)  
-🎮 [itch.io](https://ma7moud-algamal.itch.io)  
-💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-tarek-algamal)
+🎮 [itch.io](https://ma7moud-algamal.itch.io/)  
+💼 [LinkedIn]([https://www.linkedin.com/in/mahmoud-tarek-algamal](https://www.linkedin.com/in/mahmoud-elgamal-a75054237/))
