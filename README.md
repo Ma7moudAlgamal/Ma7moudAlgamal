@@ -33,4 +33,4 @@ I work across web, mobile, and game dev depending on what the project calls for.
 
 🌐 [mahmoudtarek.netlify.app](https://mahmoudtarek.netlify.app)  
 🎮 [itch.io](https://ma7moud-algamal.itch.io/)  
-💼 [LinkedIn]([https://www.linkedin.com/in/mahmoud-tarek-algamal](https://www.linkedin.com/in/mahmoud-elgamal-a75054237/))
+💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-elgamal-a75054237/)
